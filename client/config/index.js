@@ -1,3 +1,3 @@
-const MONGODB_URI = 'mongodb://kingjeremy2211:QMLzMA4EmPM6Sf2@ds161059.mlab.com:61059/heroku_cjwpj3vn';
+const MONGODB_URI = 'mongodb://heroku_3s7gqhzj@ds147003.mlab.com:47003/heroku_3s7gqhzj';
 
 module.exports = MONGODB_URI;
